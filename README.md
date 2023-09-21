@@ -1,4 +1,4 @@
-# RemoteDesktopViewer
+# Remote Desktop Application
  
 # Project Description
 * Remote Desktop Application is a software that allows a user to connect to a computer in another location, interacting as if they were locally connected. 
